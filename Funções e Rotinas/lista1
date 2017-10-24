@@ -1,0 +1,14 @@
+5) Desenvolva um programa que contenha uma sub-rotina que receba como parâmetro uma valor inteiro e positivo N e retorne o valor de S, obtido pelo seguinte cálculo:
+
+	S = 1 + 1/1! + 1/2! + 1/3! + … + 1/N!
+
+6) Desenvolva um programa que leia 5 números inteiros e que contenha uma sub-rotina que receba por parâmetro dois números e faça a distinção entre o maior e o menor. A sub-rotina deve ser utilizada para mostrar qual dos números é o maior e o menor dentre eles. (Utilize passagem de parâmetros por referência).
+
+7) Desenvolva um programa que receba o nome de vários alunos e suas 4 notas bimestrais. Tal programa deve conter uma sub-rotina que receba as notas por parâmetro, calcule a média do aluno e retorne um dos seguintes conceitos:
+
+A – Média entre 9,0 e 10,0
+B – Média entre 7,5 e 8,9
+C – Média entre 6,0 e 7,4
+D – Média abaixo de 6
+
+A cada aluno digitado e suas respectivas notas, deve ser mostrado o nome do aluno e o conceito obtido. O programa deve ser encerrado ao se digitar o nome sair.
